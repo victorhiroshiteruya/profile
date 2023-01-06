@@ -7,14 +7,6 @@ header {
     padding: 10px 20px;
 }
 
-h1 {
-
-    font-family: "Roboto Condensed", sans-serif;
-    color: white;
-    text-shadow: 5px 5px 0 black;
-
-}
-
 nav {
     text-align: right;
 }
