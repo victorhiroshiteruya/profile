@@ -2,8 +2,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #7c5e99;
-    border-bottom: 10px solid black;
+    background-color: #000000;
+    border-bottom: 10px solid rgb(26, 250, 119);
     padding: 10px 20px;
 }
 
@@ -24,7 +24,7 @@ a {
 
 a::before{
     content: "";
-    background-color: #f25a70;
+    background-color: rgb(26, 250, 119);
     width: 10px;
     height: 10px;
     margin-right: 10px;

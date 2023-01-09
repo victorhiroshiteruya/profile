@@ -1,5 +1,6 @@
 h1 {
-    font-family: "Press Star 2P", "Roboto Condensed", sans-serif;
-    color: white;
+    font-size: 40px;
+    font-family: 'Press Start 2P', sans-serif;
+    color: #f25a70;
     text-shadow: 5px 5px 0 black;
 }
